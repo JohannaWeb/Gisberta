@@ -4,6 +4,8 @@
 
 The project name honors Gisberta Salce Junior, a trans woman murdered in 2006. This build keeps that tribute visible in the new-tab page and browser branding.
 
+<img width="1025" height="782" alt="image" src="https://github.com/user-attachments/assets/85ca1f5c-9d72-44ba-b283-3974542ac46e" />
+
 ## Build
 
 From [`vendor/servo`](/home/johanna/projects/Gisberta/vendor/servo):
